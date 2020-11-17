@@ -14,8 +14,9 @@ This repo is created to try out some interesting problems in data structures.
 ## Example:
    Binary Search tree
  ![alt text](https://github.com/heera0410/Problem-solving/blob/master/Images/binary-search-tree.png)
-   Mirror image
+   
  ![alt text](https://github.com/heera0410/Problem-solving/blob/master/Images/mirror-binary-search-tree.png)
+  Mirror image
        
       
 ## Sample Input And Output
