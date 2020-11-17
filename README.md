@@ -19,8 +19,8 @@
        * 1 <= N,ele <= 10^5
 
 ## Output format
-      - Print Inorder traversal of the given bst and mirror tree in such a way that each node should be
-      in a separate line.
+      - Print Inorder traversal of the given bst and mirror tree in such a way that each value of a node 
+      should be in a separate line.
 ## Hint
     - Root remains the same for bst as well as mirror tree
     - Since it is a binary search tree, inorder traversal is in ascending order and its mirror image would 
