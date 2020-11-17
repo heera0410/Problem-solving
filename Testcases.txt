@@ -1,0 +1,124 @@
+Testcase1
+Sample Input1
+enter the no. of nodes:10
+enter the element to be inserted:17
+enter the element to be inserted:10
+enter the element to be inserted:18
+enter the element to be inserted:12
+enter the element to be inserted:11
+enter the element to be inserted:13
+enter the element to be inserted:21
+enter the element to be inserted:22
+enter the element to be inserted:19
+enter the element to be inserted:25
+
+Sample Output1
+Inorder traversal of the given bst
+
+10
+11
+12
+13
+17
+18
+19
+21
+22
+25
+
+Inorder traversal of mirror tree
+
+25 
+22
+21
+19
+18
+17
+13
+12
+11
+10
+
+Testcase2
+Sample Input2
+enter the no. of nodes:3
+enter the element to be inserted:32
+enter the element to be inserted:31
+enter the element to be inserted:33
+
+Sample Output2
+Inorder traversal of the given bst
+
+31
+32
+33
+Inorder traversal of mirror tree
+
+33
+32
+31
+
+
+
+Testcase3
+Sample Input3
+enter the no. of nodes:4
+enter the element to be inserted:51
+enter the element to be inserted:30
+enter the element to be inserted:20
+enter the element to be inserted:72
+
+Sample Output3
+Inorder traversal of the given bst
+
+20
+30
+51
+72
+
+Inorder traversal of mirror tree
+
+72
+51
+30
+20
+
+Testcase4
+Sample Input4
+enter the no. of nodes:5
+enter the element to be inserted:60
+enter the element to be inserted:40
+enter the element to be inserted:20
+enter the element to be inserted:10
+enter the element to be inserted:5
+
+Sample Output4
+Inorder traversal of the given bst
+
+5
+10
+20
+40
+60
+
+Inorder traversal of mirror tree
+
+60
+40
+20 
+10 
+5
+
+Testcase5
+Sample Input5
+enter the no. of nodes:1
+enter the element to be inserted:80
+
+Sample Output5
+Inorder traversal of the given bst
+
+80
+Inorder traversal of mirror tree
+
+80
+
