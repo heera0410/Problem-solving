@@ -10,9 +10,9 @@ This repo is created to try out some interesting problems in data structures.
       - Given a no of elements to be inserted, construct a binary search tree ( a tree in which all its children in the left subtree is lesser than the root and all its children in the right subtree is greater than the root) and convert the tree into its mirror image so that all its left and right children of non-leaf nodes are interchanged.
 ## Example:
        - Binary Search tree
-       ![Alt Text](https://secureservercdn.net/160.153.137.40/662.aa9.myftpupload.com/wp-content/uploads/2018/05/mirror-binary-search-tree.png)
+       ![Alt Text]()
        - Mirror image
-       ![Alt Text](https://secureservercdn.net/160.153.137.40/662.aa9.myftpupload.com/wp-content/uploads/2018/05/mirror-binary-search-tree-1.png)
+       ![Alt Text]()
        
       
 ## Sample Input And Output
