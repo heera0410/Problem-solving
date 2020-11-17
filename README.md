@@ -13,7 +13,7 @@
 
 ## Input format
       - First line contains N which is the no. of nodes in a tree.
-      - The next N lines contain the value of each node to be inserted in a bst.
+      - The next N lines contain the value of each node (ele) to be inserted in a bst.
 
 ## Constraints
        * 1 <= N,ele <= 10^5
