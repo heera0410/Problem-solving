@@ -12,10 +12,10 @@ This repo is created to try out some interesting problems in data structures.
       subtree is greater than the root) and convert the tree into its mirror image so that all 
       its left and right children of non-leaf nodes are interchanged.
 ## Example:
-       - Binary Search tree
-       ![alt text](https://github.com/heera0410/Problem-solving/blob/master/Images/binary-search-tree.png)
-       - Mirror image
-       ![alt text](https://github.com/heera0410/Problem-solving/blob/master/Images/mirror-binary-search-tree.png)
+   Binary Search tree
+ ![alt text](https://github.com/heera0410/Problem-solving/blob/master/Images/binary-search-tree.png)
+   Mirror image
+ ![alt text](https://github.com/heera0410/Problem-solving/blob/master/Images/mirror-binary-search-tree.png)
        
       
 ## Sample Input And Output
