@@ -6,7 +6,7 @@
 
 ## Description
     
-      - Given, no. of nodes in a tree and no of elements to be inserted, construct a binary search tree
+      - Given, no. of nodes in a tree and no. of elements to be inserted, construct a binary search tree
       ( a tree in which all its children in the left subtree is lesser than the root and all its 
       children in the right subtree is greater than the root) and convert the tree into its mirror 
       image so that all its left and right children of non-leaf nodes are interchanged.
@@ -19,7 +19,8 @@
        * 1 <= N,ele <= 10^5
 
 ## Output format
-      - Print Inorder traversal of the given bst and mirror tree in such a way that each node should be in a separate line.
+      - Print Inorder traversal of the given bst and mirror tree in such a way that each node should be
+      in a separate line.
 
 ## Example
    Binary Search tree
@@ -55,5 +56,5 @@
         1 
  
  ## Explanation0
-       - constructed a bst using the function insert and displayed the inorder traversal of the given bst
-       - converted bst into mirror tree and printed the inorder traversal.
+      - constructed a bst using the function insert and displayed the inorder traversal of the given bst
+      - converted bst into mirror tree and printed the inorder traversal.
