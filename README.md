@@ -23,7 +23,8 @@
       in a separate line.
 ## Hint
     - Root remains the same for bst as well as mirror tree
-    - Since it is a binary search tree, inorder traversal is in ascending order and its mirror image would be in descending order.
+    - Since it is a binary search tree, inorder traversal is in ascending order and its mirror image would 
+    be in descending order.
 
 ## Example
    Binary Search tree
