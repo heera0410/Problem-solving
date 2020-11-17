@@ -21,19 +21,23 @@ This repo is created to try out some interesting problems in data structures.
       
 ## Sample Input And Output
         
-        - Enter choice:1
-        - Enter element to be inserted:1
-        - Enter choice:1
-        - Enter element to be inserted:2
-        - Enter choice:1
-        - Enter element to be inserted:3
-        - Enter choice:1
-        - Enter element to be inserted:4
-        - Enter choice:1
-        - Enter element to be inserted:5
-        - Enter choice:2
-        - Inorder traversal of the tree is 1 2 3 4 5
-        - Enter choice:3
-        - create Mirror image of the tree and call inorder traversal
-        - Enter choice:2
-        - Inorder traversal of the tree is 5 4 3 2 1
+        - enter the no. of nodes:5
+        - enter the element to be inserted:1
+        - enter the element to be inserted:2
+        - enter the element to be inserted:3
+        - enter the element to be inserted:4
+        - enter the element to be inserted:5
+        Inorder traversal of the given bst
+
+         1 
+         2 
+         3 
+         4 
+         5 
+        Inorder traversal of mirror tree
+
+        5 
+        4 
+        3 
+        2 
+        1 
