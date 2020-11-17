@@ -13,9 +13,9 @@ This repo is created to try out some interesting problems in data structures.
       its left and right children of non-leaf nodes are interchanged.
 ## Example:
        - Binary Search tree
-       ![Alt Text](https://github.com/heera0410/Problem-solving/blob/master/Images/binary-search-tree.png)
+       ![alt text](https://github.com/heera0410/Problem-solving/blob/master/Images/binary-search-tree.png)
        - Mirror image
-       ![Alt Text]()
+       ![alt text](https://github.com/heera0410/Problem-solving/blob/master/Images/mirror-binary-search-tree.png)
        
       
 ## Sample Input And Output
