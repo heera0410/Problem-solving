@@ -6,10 +6,10 @@
 
 ## Description
     
-      - Given, no. of nodes in a tree and no of elements to be inserted, construct a binary search tree ( a tree in which all 
-      its children in the left subtree is lesser than the root and all its children in the right 
-      subtree is greater than the root) and convert the tree into its mirror image so that all 
-      its left and right children of non-leaf nodes are interchanged.
+      - Given, no. of nodes in a tree and no of elements to be inserted, construct a binary search tree
+      ( a tree in which all its children in the left subtree is lesser than the root and all its 
+      children in the right subtree is greater than the root) and convert the tree into its mirror 
+      image so that all its left and right children of non-leaf nodes are interchanged.
 
 ## Input format
       - First line contains N which is the no. of nodes in a tree.
